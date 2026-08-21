@@ -1,6 +1,6 @@
 
 # WSFramework
-[![Maintainence](https://badges.ws/maintenance/yes/2026)](https://github.com/thecreatorofapps/wsframework/commits/main) [![Polyform Noncommercial](https://badges.ws/badge/License-Polyform%20Noncommercial-yellow.svg)](LICENSE.md)
+[![Maintainence](https://badges.ws/maintenance/yes/2026)](https://github.com/thecreatorofapps/wsframework/commits/main) [![Polyform Noncommercial](https://badges.ws/badge/License-Polyform%20Noncommercial-yellow.svg)](LICENCE.md)
 
 Get rid of all of the shenanigans of WebSockets. Just simply use this framework
 ## Authors
